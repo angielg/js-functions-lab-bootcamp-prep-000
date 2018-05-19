@@ -1,3 +1,3 @@
 function happyHolidays () {
-  cons
+  console.log 
 }
